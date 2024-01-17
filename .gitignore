@@ -1,0 +1,4 @@
+build/
+.cache/
+_hashmap.txt
+_string.txt
