@@ -519,7 +519,7 @@ void test(char *filename) {
 int main(int argc, char **argv) {
 #define int long long
   init();
-  test("test5.z0");
+  // test("test5.z0");
   HashMap_free(global_scope);
   FuncMap_free(global_func_scope);
   return 0;
